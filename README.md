@@ -1,8 +1,4 @@
 #avelardi.github.io
 ---
 
-Pages:
-
-- index.html: Riff Raff - Dolce And Gabbana
-- hanks.html: Buckwheat Groats - Tom Hanks
-
+Just a place I mess around
